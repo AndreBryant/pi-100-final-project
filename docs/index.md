@@ -3,15 +3,23 @@
 layout: home
 
 hero:
-  name: "PI 100-G Final Project"
-  text: "A site about a particular aspect of Rizal's Life."
-  tagline: Submitted by Andre Bryant N. Bagalso
+  name: "A site debunking the famous conspiracies about Rizal."
+  text: "lorem ipsum"
+  tagline: PI 100-G Final Project
+  image:
+    src: /images/geto.png
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Who is Jose Rizal?
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Jack The Ripper Conspiracies
+      link: /markdown-examples
+    - theme: alt
+      text: Hitler's Father
+      link: /api-examples
+    - theme: alt
+      text: Tallano Gold Conspiracy
       link: /api-examples
 
 features:
@@ -22,5 +30,3 @@ features:
   - title: Rizal's Sketches
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
-[click](./subfolder/sub1.md)
