@@ -16,17 +16,16 @@ hero:
       text: Jack The Ripper Conspiracies
       link: /markdown-examples
     - theme: alt
-      text: Hitler's Father
-      link: /api-examples
-    - theme: alt
       text: Tallano Gold Conspiracy
       link: /api-examples
 
 features:
-  - title: Rizal's Sculpture
+  - title: Get to know Rizal
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Rizal's Paintings
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Rizal's Sketches
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Jack the Ripper Conspiracy
+    details: TL;DR <br>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Tallano Gold Conspiracy
+    details: TL;DR <br>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

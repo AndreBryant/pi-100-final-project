@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/pi-100-final-project",
   title: "PI 100 Final Project",
   description: "A site about a particular aspect of Rizal's Life.",
   themeConfig: {
@@ -9,9 +10,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About Rizal', link: '/subfolder/sub1' },
-      { text: 'Jack the Ripper', link: '/subfolder/sub1' },
-      { text: 'Hitler\'s Father', link: '/subfolder/sub1' },
-      { text: 'Tallano Gold Conspiracy', link: '/subfolder/sub1' }
     ],
 
     sidebar: [
@@ -24,13 +22,6 @@ export default defineConfig({
       },
       {
         text: 'Jack the Ripper Conspiracy',
-        items: [
-          { text: 'Sub Folder Page 1', link: '/subfolder/sub1' },
-          { text: 'Sub Folder Page 2', link: '/subfolder/sub2' }
-        ]
-      }, 
-      {
-        text: 'Hitler\'s Father',
         items: [
           { text: 'Sub Folder Page 1', link: '/subfolder/sub1' },
           { text: 'Sub Folder Page 2', link: '/subfolder/sub2' }
