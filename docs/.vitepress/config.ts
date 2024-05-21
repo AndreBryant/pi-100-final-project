@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/pi-100-final-project",
+  base: "/pi-100-final-project/",
   title: "PI 100 Final Project",
   description: "A site about a particular aspect of Rizal's Life.",
   themeConfig: {
