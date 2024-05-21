@@ -16,22 +16,21 @@ export default defineConfig({
       {
         text: 'Who is Rizal?',
         items: [
-          { text: 'Sub Folder Page 1', link: '/subfolder/sub1' },
-          { text: 'Sub Folder Page 2', link: '/subfolder/sub2' }
+          { text: 'Brief Introduction', link: '/rizal/introduction' },
         ]
       },
       {
         text: 'Jack the Ripper Conspiracy',
         items: [
-          { text: 'Sub Folder Page 1', link: '/subfolder/sub1' },
-          { text: 'Sub Folder Page 2', link: '/subfolder/sub2' }
+          { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
+          { text: 'Evidences Provided', link: '/jack-the-ripper-conspiracy/evidences'},
+          { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },
         ]
       }, 
       {
-        text: 'Tallano Gold Conspiracy',
+        text: 'Rizal as Hitler\'s Father',
         items: [
-          { text: 'Sub Folder Page 1', link: '/subfolder/sub1' },
-          { text: 'Sub Folder Page 2', link: '/subfolder/sub2' }
+          { text: 'Change these in config.ts', link: '/rizal-as-hitlers-father/background' },
         ]
       }
     ],
