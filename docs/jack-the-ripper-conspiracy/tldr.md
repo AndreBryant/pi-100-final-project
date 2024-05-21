@@ -21,4 +21,6 @@ These were not possible for the following reasons.
 
 ## References
 
-1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved (url)[https://google.com]
+1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved [url](https://google.com)
+
+[text](https://www.tsikot.com/forums/miscellaneous-talk-163/jose-rizal-jack-ripper-42421/)
