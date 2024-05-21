@@ -16,27 +16,30 @@ export default defineConfig({
       {
         text: 'Who is Rizal?',
         items: [
-          { text: 'Brief Introduction', link: '/rizal/introduction' },
+          { text: 'Jose Rizal', link: '/rizal/introduction' },
         ]
       },
       {
         text: 'Jack the Ripper Conspiracy',
         items: [
+          { text: 'Jack the Ripper Consipracy tl;dr', link: '/jack-the-ripper-conspiracy/tldr' },
           { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
           { text: 'Evidences Provided', link: '/jack-the-ripper-conspiracy/evidences'},
           { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },
+          { text: 'Conclusion', link: '/jack-the-ripper-conspiracy/conclusion' },
         ]
       }, 
       {
-        text: 'Rizal as Hitler\'s Father',
+        text: 'Jose Rizal as Hitler\'s Father',
         items: [
+          { text: 'Jose Rizal as Hitler\'s father tl;dr', link: '/rizal-as-hitlers-father/tldr' },
           { text: 'Change these in config.ts', link: '/rizal-as-hitlers-father/background' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/AndreBryant/pi-100-final-project' }
     ],
     search: {
       provider: 'local'

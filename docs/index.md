@@ -12,21 +12,24 @@ hero:
   actions:
     - theme: brand
       text: Who is Jose Rizal?
-      link: /markdown-examples
+      link: /rizal/introduction
     - theme: alt
       text: Jack The Ripper Conspiracies
-      link: /markdown-examples
+      link: /jack-the-ripper-conspiracy/background
     - theme: alt
       text: Rizal as Hitler's Father
-      link: /api-examples
+      link: /rizal-as-hitlers-father/background
 
 features:
   - title: Get to know Rizal
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /rizal/introduction
   - title: Jack the Ripper Conspiracy
     details: TL;DR <br>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /jack-the-ripper-conspiracy/tldr
   - title: Rizal as Hitler's Father
     details: TL;DR <br>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /rizal-as-hitlers-father/tldr
 ---

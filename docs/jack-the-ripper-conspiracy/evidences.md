@@ -1,40 +1,15 @@
-# SUBFolder Page 1
+# Evidences Linking Rizal to Jack the Ripper
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Conspiracy theories provided these evidences to link Rizal to Jack the Ripper's Identity.
 
-## SUBPART 1
+## Same Initials (J & R)
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: info
-This is an info box.
-:::
+## Same dates of the killings and Rizal's Visit in London
 
-## SUBPART 2
+## Jack the Ripper was identified as someone who knows medical practices
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: tip
-This is a tip.
-:::
+## More evidences here
 
-## SUBPART 3
+## References
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: warning
-This is a warning.
-:::
-
-## SUBPART 4
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: danger
-This is a dangerous warning.
-:::
-
-## SUBPART 5
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: details
-This is a details block.
-:::
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved (url)[https://google.com]

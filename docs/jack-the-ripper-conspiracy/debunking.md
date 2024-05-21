@@ -1,40 +1,15 @@
-# SUBFolder Page 1
+# Debunking the Evidences
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+While some of the evidences provided previously are believable, they are just merely coincidences.
 
-## SUBPART 1
+## Debunking (put believable evidence here)
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: info
-This is an info box.
-:::
+## Debunking (put believable evidence here)
 
-## SUBPART 2
+## Debunking (put believable evidence here)
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: tip
-This is a tip.
-:::
+## Debunking (put believable evidence here)
 
-## SUBPART 3
+## References
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: warning
-This is a warning.
-:::
-
-## SUBPART 4
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: danger
-This is a dangerous warning.
-:::
-
-## SUBPART 5
-
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-::: details
-This is a details block.
-:::
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved (url)[https://google.com]
