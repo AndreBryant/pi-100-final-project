@@ -32,8 +32,11 @@ export default defineConfig({
       {
         text: 'Jose Rizal as Hitler\'s Father',
         items: [
-          { text: 'Jose Rizal as Hitler\'s father tl;dr', link: '/rizal-as-hitlers-father/tldr' },
-          { text: 'Change these in config.ts', link: '/rizal-as-hitlers-father/background' },
+          { text: 'Summary', link: '/rizal-as-hitlers-father/summary' },
+          { text: 'Background', link: '/rizal-as-hitlers-father/background' },
+          { text: 'Evidences Provided', link: '/rizal-as-hitlers-father/evidences'},
+          { text: 'Debunking', link: '/rizal-as-hitlers-father/debunking' },
+          { text: 'Conclusion', link: '/rizal-as-hitlers-father/conclusion' }
         ]
       }
     ],
