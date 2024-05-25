@@ -6,7 +6,7 @@
 Jack the ripper:
 https://www.jessicarulestheuniverse.com/2012/08/01/historical-hysterical-jose-rizal-was-jack-the-ripper/
 
-Adolf Hitler's Father:
+Adolf Hitler's Father: (Add reference to corresponding sections)
 https://www.jstor.org/stable/43054787
 http://www.joserizal.ph/tr20.html
 http://www.joserizal.ph/fa03.html
