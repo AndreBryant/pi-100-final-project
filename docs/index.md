@@ -9,16 +9,6 @@ hero:
   # Change rizal image to something that fits haha
   image:
     src: /images/Rizal.png
-  actions:
-    - theme: brand
-      text: Who is Jose Rizal?
-      link: /rizal/introduction
-    - theme: alt
-      text: Jack The Ripper Conspiracies
-      link: /jack-the-ripper-conspiracy/background
-    - theme: alt
-      text: Rizal as Hitler's Father
-      link: /rizal-as-hitlers-father/background
 
 features:
   - title: Get to know Rizal
