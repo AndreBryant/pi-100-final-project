@@ -21,5 +21,5 @@ features:
   - title: Rizal as Hitler's Father
     details: TL;DR <br>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /rizal-as-hitlers-father/summary
+    link: /rizal-as-hitlers-father/background
 ---
