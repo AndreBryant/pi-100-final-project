@@ -9,3 +9,5 @@ https://www.jessicarulestheuniverse.com/2012/08/01/historical-hysterical-jose-ri
 Adolf Hitler's Father:
 https://www.jstor.org/stable/43054787
 http://www.joserizal.ph/tr20.html
+http://www.joserizal.ph/fa03.html
+https://www.sunstar.com.ph/baguio/opinion/chacapna-jose-rizal-is-hitlers-father-and-the-bocatots-epilogue
