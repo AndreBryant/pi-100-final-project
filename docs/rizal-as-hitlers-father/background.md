@@ -1,14 +1,11 @@
-# TEST MAIN HEADING
+# Rizal in Germany
 
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+Rizal traveled across Europe, visiting cities in Spain, France, Germany, and Austria. He resided in Germany from February 1886 to May 1887, where his interactions with German scholars, particularly Rudolph Virchow, influenced his views on human rights and freedoms. His time in Germany shaped his beliefs about freedom, scientific inquiry, and his advocacy for Filipino independence and social reform. It was during his stay in Germany that he revised and published his first novel, Noli Me Tangere. Furthermore, he studied ophthalmology under notable doctors such as Dr. Becker, Dr. Galezowsky, Dr. Schulzer, and Dr. Schweigger.
 
-## Rizal's Memoir
+<img src="/images/Rizal-statue.jpg" alt="Alt text">
 
-## Gallery of Jose Riizal's VIsual Arts (Sculpture, paintings, sketches)
+## The Connection
 
-## Conspiracies about the Rizals (Jack the Ripper, hitler's father, saturnina chismis, tallano gold lmao) + Debunking Analysis + Critical analysis
+The conspiracy theory suggests that Dr. Jose Rizal is the biological father of the late dictator of Nazi Germany, Adolf Hitler. Hitler was born on April 20, 1889, in Braunau am Inn, Austria, near the German-Austria border. Coincidentally, Rizal was residing in Germany at that time and even went to Austria for five days, staying at the Hotel Metropole.
 
-:::warning
-**Tallano Gold Conspiracy**
-tales that the country's national hero José Rizal survived his execution, that the gold reserves were used to fund the Vatican, or that the gold was instrumental in starting the World Bank.
-:::
+Rizal's proximity to the time of Hitler's presumed conception, along with his known love life history, sparked the theory that while in Austria, Rizal had met with Hitler's mother, Klara Pölzl, which led to the conception of Hitler.
