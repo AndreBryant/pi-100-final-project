@@ -1,3 +1,4 @@
+import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
@@ -49,6 +50,14 @@ export default defineConfig({
     footer: {
       message: 'Submitted by Andre Bryant Bagalso and Zedrick De Guzman',
       copyright: 'PI-100 Final Project'
+    }
+  },
+  head: [
+    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }]
+  ],
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
     }
   }
 })

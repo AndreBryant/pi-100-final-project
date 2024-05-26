@@ -17,3 +17,5 @@ If Hiter is born on April 20, 1889, then he would be conceived around July 1888.
 ## Debunking Rizal's Affair with Hitler's Mother
 
 There is no historical documentation on where Rizal stayed when he was briefly in Austria or that he met with Hitler's mother. Historians can confidently prove this as Rizal's travel across Europe is well documented as well as Rizal himself, his own writings, letters, and diaries does not contain any indication that he had romanitc affairs in Austria. As for his lost diamond pin stick is also not mention in any historical documents regarding Rizal.
+
+## References
