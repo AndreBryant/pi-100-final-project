@@ -9,3 +9,5 @@ Rizal traveled across Europe, visiting cities in Spain, France, Germany, and Aus
 The conspiracy theory suggests that Dr. Jose Rizal is the biological father of the late dictator of Nazi Germany, Adolf Hitler. Hitler was born on April 20, 1889, in Braunau am Inn, Austria, near the German-Austria border. Coincidentally, Rizal was residing in Germany at that time and even went to Austria for five days, staying at the Hotel Metropole.
 
 Rizal's proximity to the time of Hitler's presumed conception, along with his known love life history, sparked the theory that while in Austria, Rizal had met with Hitler's mother, Klara Pölzl, which led to the conception of Hitler.
+
+## References
