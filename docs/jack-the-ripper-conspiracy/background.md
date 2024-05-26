@@ -40,7 +40,7 @@ The Women Killed identified by the police to be the victim of the same murderer 
 
 ## "Dear Boss" Letter
 
-The "Dear Boss" letter is one of the key evidences associated to Jack the Ripper. It was sent to the Central News Agency in London on September 27, 1888. The letter overall was evidently just to mock the investigations regarding the serial killings and to allude to future murders. However, this letter is regarded as the first piece of evidence linking to the identity of a killer known as Jack the Ripper.
+The "Dear Boss" letter is one of the key evidences associated to Jack the Ripper. It was sent to the Central News Agency in London on September 27, 1888. The letter overall was evidently just to mock the investigations regarding the serial killings and to give hints to future murders. However, this letter is regarded as the first piece of evidence linking to the identity of a killer known as Jack the Ripper.
 
 ::: info
 You can read the letter [here](https://umsi580.lsait.lsa.umich.edu/s/stand_up_be_counted/item/1105).

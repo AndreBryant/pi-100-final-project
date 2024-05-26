@@ -10,7 +10,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Rizal', link: '/subfolder/sub1' },
+      { text: 'About Rizal', link: '/rizal/introduction' },
+      { text: 'Debunks', 
+        items: [
+          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' }, 
+          { text: 'Jose Rizal as Hitler\'s Father', link: '/rizal-as-hitlers-father/background' }
+        ]
+      },
     ],
 
     sidebar: [
@@ -21,7 +27,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Jack the Ripper Conspiracy',
+        text: 'Jack the Ripper Conspiracy', collapsed: false,
         items: [
           { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' },
           { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
@@ -31,7 +37,7 @@ export default defineConfig({
         ]
       }, 
       {
-        text: 'Jose Rizal as Hitler\'s Father',
+        text: 'Jose Rizal as Hitler\'s Father', collapsed: false,
         items: [
           { text: 'Background', link: '/rizal-as-hitlers-father/background' },
           { text: 'Evidence', link: '/rizal-as-hitlers-father/evidences'},
