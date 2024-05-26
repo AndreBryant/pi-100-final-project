@@ -3,23 +3,24 @@
 layout: home
 
 hero:
-  name: "A site debunking the famous conspiracies about Rizal."
-  text: "lorem ipsum"
-  tagline: PI 100-G Final Project
-  # Change rizal image to something that fits haha
+  name: "A Site Debunking Some Conspiracies About Rizal."
+  text: PI 100-G Final Project
+  tagline: 2nd Semester of A.Y. 2023-2024
+  # TODO: Change rizal image to something that fits haha
   image:
-    src: /images/Rizal.png
+    src: ./images/Rizal.png
 
 features:
   - title: Get to know Rizal
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /rizal/introduction
-  - title: Jack the Ripper Conspiracy
-    details: TL;DR <br>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Debunking Jack the Ripper Conspiracy
+    details:
+      Jose Rizal was speculated by some to be the unidentified murderer in London, Jack the Ripper.<br><br>
+      <strong>Written by Andre Bryant Bagalso</strong>
     link: /jack-the-ripper-conspiracy/tldr
-  - title: Rizal as Hitler's Father
-    details: TL;DR <br>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Debunking Rizal as Hitler's Father
+    details: Debunk lorem ipsum add short description here. <br><br>
+      <strong>Written by Zedrick De Guzman</strong>
     link: /rizal-as-hitlers-father/background
 ---

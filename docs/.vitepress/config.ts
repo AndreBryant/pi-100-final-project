@@ -8,9 +8,22 @@ export default defineConfig({
   description: "A site about a particular aspect of Rizal's Life.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Rizal', link: '/subfolder/sub1' },
+      { text: 'About Rizal', link: '/rizal/introduction' },
+      { text: 'Debunks', 
+        items: [
+          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' }, 
+          { text: 'Jose Rizal as Hitler\'s Father', link: '/rizal-as-hitlers-father/background' }
+        ]
+      },
     ],
 
     sidebar: [
@@ -21,20 +34,20 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Jack the Ripper Conspiracy',
+        text: 'Jack the Ripper Conspiracy', collapsed: false,
         items: [
-          { text: 'Jack the Ripper Consipracy tl;dr', link: '/jack-the-ripper-conspiracy/tldr' },
+          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' },
           { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
-          { text: 'Evidences Provided', link: '/jack-the-ripper-conspiracy/evidences'},
+          { text: 'Evidence', link: '/jack-the-ripper-conspiracy/evidence'},
           { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },
           { text: 'Conclusion', link: '/jack-the-ripper-conspiracy/conclusion' },
         ]
       }, 
       {
-        text: 'Jose Rizal as Hitler\'s Father',
+        text: 'Jose Rizal as Hitler\'s Father', collapsed: false,
         items: [
           { text: 'Background', link: '/rizal-as-hitlers-father/background' },
-          { text: 'Evidences Provided', link: '/rizal-as-hitlers-father/evidences'},
+          { text: 'Evidence', link: '/rizal-as-hitlers-father/evidences'},
           { text: 'Debunking', link: '/rizal-as-hitlers-father/debunking' },
           { text: 'Conclusion', link: '/rizal-as-hitlers-father/conclusion' }
         ]
@@ -59,5 +72,5 @@ export default defineConfig({
     config: (md) => {
       md.use(footnote)
     }
-  }
+  },
 })
