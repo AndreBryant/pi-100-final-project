@@ -50,5 +50,8 @@ export default defineConfig({
       message: 'Submitted by Andre Bryant Bagalso and Zedrick De Guzman',
       copyright: 'PI-100 Final Project'
     }
-  }
+  },
+  head: [
+    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }]
+  ]
 })
