@@ -22,9 +22,9 @@ export default defineConfig({
       {
         text: 'Jack the Ripper Conspiracy',
         items: [
-          { text: 'Jack the Ripper Consipracy tl;dr', link: '/jack-the-ripper-conspiracy/tldr' },
+          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' },
           { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
-          { text: 'Evidences Provided', link: '/jack-the-ripper-conspiracy/evidences'},
+          { text: 'Evidence', link: '/jack-the-ripper-conspiracy/evidence'},
           { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },
           { text: 'Conclusion', link: '/jack-the-ripper-conspiracy/conclusion' },
         ]
@@ -33,7 +33,7 @@ export default defineConfig({
         text: 'Jose Rizal as Hitler\'s Father',
         items: [
           { text: 'Background', link: '/rizal-as-hitlers-father/background' },
-          { text: 'Evidences Provided', link: '/rizal-as-hitlers-father/evidences'},
+          { text: 'Evidence', link: '/rizal-as-hitlers-father/evidences'},
           { text: 'Debunking', link: '/rizal-as-hitlers-father/debunking' },
           { text: 'Conclusion', link: '/rizal-as-hitlers-father/conclusion' }
         ]
