@@ -47,7 +47,7 @@ Rizal was one of the suspected persons to be Jack the Ripper for a number of coi
 
 ## Debunking
 
-These were not possible for the following reasons.
+The pieces of evidence presented were not possible for the following reasons.
 
 1. Lack of Direct Evidence
 2. Difference in Their Characteristics

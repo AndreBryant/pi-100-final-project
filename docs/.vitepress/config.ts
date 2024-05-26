@@ -8,6 +8,13 @@ export default defineConfig({
   description: "A site about a particular aspect of Rizal's Life.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About Rizal', link: '/rizal/introduction' },
@@ -65,5 +72,5 @@ export default defineConfig({
     config: (md) => {
       md.use(footnote)
     }
-  }
+  },
 })
