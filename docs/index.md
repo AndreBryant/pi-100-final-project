@@ -11,9 +11,6 @@ hero:
     src: ./images/Rizal.png
 
 features:
-  - title: Get to know Rizal
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /rizal/introduction
   - title: Debunking Jack the Ripper Conspiracy
     details:
       Jose Rizal was speculated by some to be the unidentified murderer in London, Jack the Ripper.<br><br>

@@ -17,7 +17,6 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Rizal', link: '/rizal/introduction' },
       { text: 'Debunks', 
         items: [
           { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' }, 
@@ -28,15 +27,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Who is Rizal?',
-        items: [
-          { text: 'Jose Rizal', link: '/rizal/introduction' },
-        ]
-      },
-      {
         text: 'Jack the Ripper Conspiracy', collapsed: false,
         items: [
-          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' },
+          { text: 'Overview', link: '/jack-the-ripper-conspiracy/tldr' },
           { text: 'Background', link: '/jack-the-ripper-conspiracy/background' },
           { text: 'Evidence', link: '/jack-the-ripper-conspiracy/evidence'},
           { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },

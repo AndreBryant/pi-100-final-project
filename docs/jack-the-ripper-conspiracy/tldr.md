@@ -25,24 +25,19 @@ Rizal was one of the suspected persons to be Jack the Ripper for a number of coi
    Jose Rizal was also in London from May 1888 to January 1889 using the British library facilities. By the time Jose Rizal left London, the killings stopped.
    :::
 
-2. Their Initials Matched
-   ::: info J.R. Initials
-   Jack the Ripper and Jose Rizal both had the same initials, J.R..
-   :::
-
-3. Medicinal Knowledge of Rizal
+2. Medicinal Knowledge of Rizal
    ::: info Medicinal Knowledge of Rizal
    Jose Rizal was knowledgable of medical practices. He was a doctor.
    :::
 
-4. Connection of Rizal with the Freemasons
-   ::: info Connection with the Freemasons
-   Jose Rizal and some victims of Jack the Ripper had connections to the Freemasons.
+3. Mysterious Aspects of Rizal's Life
+   ::: info
+   Rizal was a polymath. He was good at fencing, proficient in the martial arts, and good with swords.
    :::
 
-5. Mysterious Aspects of Rizal's Life
-   ::: info
-   Rizal was a polymath. He was good at fencing, proficient in the martial arts, and was good with swords.
+4. Their Initials Matched
+   ::: info J.R. Initials
+   Jack the Ripper and Jose Rizal both had the same initials, J.R..
    :::
 
 ## Debunking
@@ -56,10 +51,10 @@ The pieces of evidence presented were not possible for the following reasons.
 5. Lack of Motive
 6. Culture and Racial Prejudice
 
-## References
+<!-- ## References
 
 1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved [url](https://google.com)
 
 [text](https://www.tsikot.com/forums/miscellaneous-talk-163/jose-rizal-jack-ripper-42421/)
 
-https://www.esquiremag.ph/culture/books-and-art/sherlock-holmes-meets-jose-rizal-jack-the-ripper-a00289-20201010-lfrm
+https://www.esquiremag.ph/culture/books-and-art/sherlock-holmes-meets-jose-rizal-jack-the-ripper-a00289-20201010-lfrm -->

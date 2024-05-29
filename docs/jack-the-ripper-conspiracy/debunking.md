@@ -2,13 +2,20 @@
 
 While some of the evidences provided previously are believable, they are just merely coincidences.
 
-## Debunking (put believable evidence here)
+## Lack of Direct Evidence
 
-## Debunking (put believable evidence here)
+## Difference in their Characteristics
 
-## Debunking (put believable evidence here)
+## Difference in their Personality Profiles
 
-## Debunking (put believable evidence here)
+## Historical Documentation
+
+Rizal was registered as a reader at the british museum on august 16 1888
+(https://www.pna.gov.ph/articles/1085409) Rizal was there to expand his knowledge
+
+## Lack of Motive
+
+## Culture and Racial Prejudice
 
 ## References
 

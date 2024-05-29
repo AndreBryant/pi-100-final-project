@@ -1,15 +1,61 @@
-# Evidences Linking Rizal to Jack the Ripper
+# Evidence Linking Rizal to Jack the Ripper
 
-Conspiracy theories provided these evidences to link Rizal to Jack the Ripper's Identity.
+The following pieces of evedience provided by the conspiracy theorists aims to link Jose Rizal to Jack the Ripper's Identity.
 
-## Same Initials (J & R)
+## Timeline and Location Coincidence
 
-## Same dates of the killings and Rizal's Visit in London
+Jack the Ripper's infamous murders took place between August and November 1888 in London. Coincidentally, Jose Rizal arrived in London in the last week of May 1888 and stayed until early 1889.
 
-## Jack the Ripper was identified as someone who knows medical practices
+::: info Noted here
 
-## More evidences here
+- **Rizal's Stay in London:** May 1888 - early 1889
+- **Jack the Ripper Murders:** August - November 1888
+
+:::
+
+The believers assert that the murders stopped by the time Rizal left London, suggesting an overlap that fuels the speculations in this conspiracy.
+
+## Medicinal Knowledge of Rizal
+
+People believes that Jack the Ripper must have had some medical training, evident by how he mutilate his victims. At the same time, Jose Rizal was knowledgable of medical practices because he was a doctor.
+
+::: info Noted Here
+
+- **Jose Rizal:** A doctor, well-versed in medicinal practices and procedures.
+- **Jack the Ripper:** Demonstrated surgical precision in his crimes, suggesting medical experties.
+
+:::
+
+## Mysterious Aspects of Rizal's Life
+
+Jose Rizal was a true polymath. He was good at fencing, proficient in the martial arts, and skilled with swords.
+
+::: info Relevant Points
+
+- **Polymath Abilities:** Rizal was not only a doctor and writer but also excelled in multiple disciplines.
+- **Fencing and Martial Arts:** His proficiency in these areas highlights his diverse talents and physical capabilities.
+
+:::
+
+These multifaceted aspect of Rizal's life led people to be intrgued by his persona. Thus, leading to speculations that such skills might align with the profile of someone capable of the physical acts attributed to Jack the Ripper.
+
+## Their Initials Matched
+
+Believers of this conspiracy also assert that Jack the Ripper and Jose Rizal shared the same initials: J.R.
+
+::: info Relevant Points
+
+- **Jack the Ripper:** Commonly abbreviated as J.R.
+- **Jose Rizal:** Initials also J.R.
+
+:::
+
+This coincidence adds curiosity to the layers of the speculations connecting Jose Rizal to Jack the Ripper.
 
 ## References
 
-1. lorem ipsum (2018). _lorem ipsum title_. Publisher. Retrieved (url)[https://google.com]
+1. Jenkins, J. P., & The Editors of Encyclopaedia Britannica. (2024, May 6). _Jack the Ripper_. In Encyclopaedia Britannica. Retrieved from https://www.britannica.com/biography/Jack-the-Ripper
+
+2. PNA. (2019, November 8). _Rizal at the British Museum_. Philippine News Agency. Retrieved from https://www.pna.gov.ph/articles/1085409
+
+3. Tsikot Forums. (n.d). _Jose Rizal was Jack the Ripper_. Retrieved from https://www.tsikot.com/forums/miscellaneous-talk-163/jose-rizal-jack-ripper-42421/

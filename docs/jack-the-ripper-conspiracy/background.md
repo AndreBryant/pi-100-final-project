@@ -1,3 +1,5 @@
+<!-- ADD IMAGES I GUESS -->
+
 # Who was Jack the Ripper?
 
 Jack the ripper was a serial killer whose identity, until today, still have not been known. He was known for murders of at least five women in London, particularly near the Whitechapel district, between August and November 1888.
@@ -48,4 +50,4 @@ You can read the letter [here](https://umsi580.lsait.lsa.umich.edu/s/stand_up_be
 
 ## References
 
-Jenkins, J. P., & The Editors of Encyclopaedia Britannica. (2024, May 6). Jack the Ripper. In Encyclopaedia Britannica. Retrieved from https://www.britannica.com/biography/Jack-the-Ripper
+1. Jenkins, J. P., & The Editors of Encyclopaedia Britannica. (2024, May 6). _Jack the Ripper_. In Encyclopaedia Britannica. Retrieved from https://www.britannica.com/biography/Jack-the-Ripper
