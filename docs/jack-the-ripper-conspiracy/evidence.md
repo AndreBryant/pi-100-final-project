@@ -37,7 +37,7 @@ Jose Rizal was a true polymath. He was good at fencing, proficient in the martia
 
 :::
 
-These multifaceted aspect of Rizal's life led people to be intrgued by his persona. Thus, leading to speculations that such skills might align with the profile of someone capable of the physical acts attributed to Jack the Ripper.
+These various aspects of Rizal's life led people to be intrgued by his persona. Thus, leading to speculations that such skills might align with the profile of someone capable of the physical acts attributed to Jack the Ripper.
 
 ## Their Initials Matched
 
