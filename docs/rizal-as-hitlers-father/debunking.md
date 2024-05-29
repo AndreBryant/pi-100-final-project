@@ -12,10 +12,12 @@ Their ethnicities also differ which deems their physical resemblance a coinciden
 
 Doing the math behind the birth and assuemed conception of Hitler's birth, it's easy to see that the timeline does not add up.
 
-If Hiter is born on April 20, 1889, then he would be conceived around July 1888. During that time Rizal already left Germany and was in London so it was not possible for him to be the biological father of Hitler.
+If Hiter is born on April 20, 1889, then he would be conceived around July 1888. During that time Rizal already left Germany and was in London so it was not possible for him to be the biological father of Hitler[^1].
 
 ## Debunking Rizal's Affair with Hitler's Mother
 
 There is no historical documentation on where Rizal stayed when he was briefly in Austria or that he met with Hitler's mother. Historians can confidently prove this as Rizal's travel across Europe is well documented as well as Rizal himself, his own writings, letters, and diaries does not contain any indication that he had romanitc affairs in Austria. As for his lost diamond pin stick is also not mention in any historical documents regarding Rizal.
 
 ## References
+
+[^1]: Jose Rizal _[Travels]_. (n.d.). http://www.joserizal.ph/tr32.html
