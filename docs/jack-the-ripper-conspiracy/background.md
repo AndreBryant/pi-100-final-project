@@ -18,7 +18,7 @@ Jack the Ripper was also previously called _The Whitechapel Murderer_, _Leather 
 :::
 
 ::: warning Note
-While Jack the Ripper's identity is still unknown, in the following articles we used the pronouns that Jack the Ripper was commonly attributed by, which are **he** and **him**.
+While Jack the Ripper's identity is still unknown, in the following articles, we used the pronouns that Jack the Ripper was commonly attributed by, which are **he** and **him**.
 :::
 
 ## The Canonical Five
@@ -42,10 +42,24 @@ The Women Killed identified by the police to be the victim of the same murderer 
 
 ## "Dear Boss" Letter
 
-The "Dear Boss" letter is one of the key evidences associated to Jack the Ripper. It was sent to the Central News Agency in London on September 27, 1888. The letter overall was evidently just to mock the investigations regarding the serial killings and to give hints to future murders. However, this letter is regarded as the first piece of evidence linking to the identity of a killer known as Jack the Ripper.
+The "Dear Boss" letter is one of the key evidences associated to Jack the Ripper. It was sent to the Central News Agency in London on September 27, 1888.
 
-::: info
-You can read the letter [here](https://umsi580.lsait.lsa.umich.edu/s/stand_up_be_counted/item/1105).
+:::details Transcript
+_Dear Boss,_ <br>
+_I keep on hearing the police have caught me but they wont fix me just yet. I have laughed when they look so clever and talk about being on the right track. That joke about Leather Apron gave me real fits. I am down on whores and I shant quit ripping them till I do get buckled. Grand work the last job was. I gave the lady no time to squeal. How can they catch me now. I love my work and want to start again. You will soon hear of me with my funny little games. I saved some of the proper red stuff in a ginger beer bottle over the last job to write with but it went thick like glue and I cant use it. Red ink is fit enough I hope ha. ha. The next job I do I shall clip the ladys ears off and send to the police officers just for jolly wouldn't you. Keep this letter back till I do a bit more work, then give it out straight. My knife's so nice and sharp I want to get to work right away if I get a chance. Good Luck._
+
+_Yours truly_ <br>
+_Jack the Ripper_ <br>
+
+_Dont mind me giving the trade name_
+
+_PS Wasnt good enough to post this before I got all the red ink off my hands curse it No luck yet. They say I'm a doctor now. ha ha_
+:::
+
+The letter overall was evidently just to mock the investigations regarding the serial killings and to give hints to future murders. Moreover, this letter is regarded as the first piece of evidence linking to the identity of a killer known as Jack the Ripper.
+
+::: tip
+You can see the real letter [here.](https://umsi580.lsait.lsa.umich.edu/s/stand_up_be_counted/item/1105)
 :::
 
 ## References

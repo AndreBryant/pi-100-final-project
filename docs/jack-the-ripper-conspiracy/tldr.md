@@ -48,8 +48,6 @@ The pieces of evidence presented were not possible for the following reasons.
 2. Difference in Their Characteristics
 3. Difference in Their Personality Profiles
 4. Historical Documentation
-5. Lack of Motive
-6. Culture and Racial Prejudice
 
 <!-- ## References
 
