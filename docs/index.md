@@ -7,6 +7,8 @@ hero:
   text: PI 100-G Final Project
   tagline: 2nd Semester of A.Y. 2023-2024
   # TODO: Change rizal image to something that fits haha
+  image:
+    src: /logo.png
 
 features:
   - title: Debunking Jack the Ripper Conspiracy
