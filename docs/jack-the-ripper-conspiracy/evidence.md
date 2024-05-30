@@ -22,7 +22,7 @@ People believes that Jack the Ripper must have had some medical training, eviden
 ::: info Noted Here
 
 - **Jose Rizal:** A doctor, well-versed in medicinal practices and procedures.
-- **Jack the Ripper:** Demonstrated surgical precision in his crimes, suggesting medical experties.
+- **Jack the Ripper:** Demonstrated surgical precision in his crimes, suggesting medical expertise.
 
 :::
 
