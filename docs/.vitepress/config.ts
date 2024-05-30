@@ -8,7 +8,7 @@ export default defineConfig({
   description: "A site about a particular aspect of Rizal's Life.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../images/rizal-bg-removed.png',
+    logo: '/rizal-bg-removed.png',
     lastUpdated: {
       text: 'Updated at',
       formatOptions: {
