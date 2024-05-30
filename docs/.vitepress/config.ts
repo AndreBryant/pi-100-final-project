@@ -6,6 +6,7 @@ export default defineConfig({
   base: "/pi-100-final-project/",
   title: "PI 100 Final Project",
   description: "A site about a particular aspect of Rizal's Life.",
+  appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/rizal-bg-removed.png',
