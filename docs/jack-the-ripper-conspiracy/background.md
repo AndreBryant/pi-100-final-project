@@ -6,12 +6,10 @@ Jack the ripper was a serial killer whose identity, until today, still have not 
 
 Multiple cases of murders have been reported between 1888 and 1892 that have been pointed to Jack the Ripper. However, only five of those, the _canonical five_, were linked by the police to the same culprit.
 
-<figure>
-<p align="center">
-<img align="center" src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
-</p>
-<figcaption align="center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</figcaption>
-</figure>
+<div class="flex flex-col items-center">
+   <img src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
+   <p class="italic text-center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</p>
+</div>
 
 ::: info
 Jack the Ripper was also previously called _The Whitechapel Murderer_, _Leather Apron_, and _The Red Fiend_.

@@ -2,19 +2,15 @@
 
 Jack the ripper was a serial killer whose identity, until today, still have not been known. He was known for murders of at least five women in London, particularly near the Whitechapel district, between August and November 1888. It intrigued some people (mostly Filipinos) because Jose Rizal was also in London during those times. Moreover, people speculated that the unidentified killer was Jose Rizal for a number of coincidences.
 
-<figure>
-<p align="center">
-<img align="center" src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
-</p>
-<figcaption align="center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</figcaption>
-</figure>
+<div class="flex flex-col items-center">
+   <img src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
+   <p class="italic text-center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</p>
+</div>
 
-<figure>
-<p align="center">
-<img align="center" src="../images/jack-the-ripper/Rizal.png" alt="Jose Rizal"/>
-</p>
-<figcaption align="center">Jose Rizal [Public Domain]</figcaption>
-</figure>
+<div class="flex flex-col items-center">
+   <img src="../images/jack-the-ripper/Rizal.png" alt="Jose Rizal"/>
+   <p class="italic text-center">Jose Rizal [Public Domain]</p>
+</div>
 
 ## Evidence
 
