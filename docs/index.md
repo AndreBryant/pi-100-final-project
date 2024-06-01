@@ -12,9 +12,10 @@ hero:
 
 features:
   - title: Debunking Rizal as Hitler's Father
-    details: Debunk lorem ipsum add short description here. <br><br>
+    details:
+      Adolf Hitler was speculated to be Jose Rizal's illegitimate child as a result of his travel across Europe. <br><br>
       <strong>Written by Zedrick De Guzman</strong>
-    link: /rizal-as-hitlers-father/background
+    link: /rizal-as-hitlers-father/tldr
     icon:
       src: /ink.png
   - title: Debunking Jack the Ripper Conspiracy
