@@ -10,7 +10,7 @@ Multiple cases of murders have been reported between 1888 and 1892 that have bee
 <p align="center">
 <img align="center" src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
 </p>
-<figcaption align="center">Newspaper Illustration depicting Jack the Ripper</figcaption>
+<figcaption align="center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</figcaption>
 </figure>
 
 ::: info

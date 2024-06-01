@@ -6,14 +6,14 @@ Jack the ripper was a serial killer whose identity, until today, still have not 
 <p align="center">
 <img align="center" src="../images/jack-the-ripper/JacktheRipper1888.jpg" alt="JNewspaper Illustration depicting Jack the Ripper"/>
 </p>
-<figcaption align="center">Newspaper Illustration depicting Jack the Ripper</figcaption>
+<figcaption align="center">Newspaper Illustration depicting Jack the Ripper [Public Domain]</figcaption>
 </figure>
 
 <figure>
 <p align="center">
 <img align="center" src="../images/jack-the-ripper/Rizal.png" alt="Jose Rizal"/>
 </p>
-<figcaption align="center">Jose Rizal</figcaption>
+<figcaption align="center">Jose Rizal [Public Domain]</figcaption>
 </figure>
 
 ## Evidence
