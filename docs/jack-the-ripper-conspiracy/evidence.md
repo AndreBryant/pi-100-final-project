@@ -1,10 +1,10 @@
 # Evidence Linking Rizal to Jack the Ripper
 
-The following pieces of evedience provided by the conspiracy theorists aims to link Jose Rizal to Jack the Ripper's Identity.
+The following pieces of evidence provided by the conspiracy theorists aim to link Jose Rizal to Jack the Ripper's Identity.
 
 ## Timeline and Location Coincidence
 
-Jack the Ripper's infamous murders took place between August and November 1888 in London. Coincidentally, Jose Rizal arrived in London in the last week of May 1888 and stayed until early 1889.
+Jack the Ripper's infamous murders happened between August and November 1888 in London. Coincidentally, Jose Rizal arrived in London in the last week of May 1888 and stayed until early 1889.
 
 ::: info Noted here
 
@@ -13,11 +13,11 @@ Jack the Ripper's infamous murders took place between August and November 1888 i
 
 :::
 
-The believers assert that the murders stopped by the time Rizal left London, suggesting an overlap that fuels the speculations in this conspiracy.
+The believers emphasize that the murders stopped by the time Rizal left London, suggesting an overlap that fuels the speculations in this conspiracy.
 
 ## Medicinal Knowledge of Rizal
 
-People believes that Jack the Ripper must have had some medical training, evident by how he mutilate his victims. At the same time, Jose Rizal was knowledgable of medical practices because he was a doctor.
+People believe that Jack the Ripper must have had some medical training, evident by how he mutilate his victims. At the same time, Jose Rizal was knowledgable of medical practices because he was a doctor.
 
 ::: info Noted Here
 
@@ -56,6 +56,8 @@ This coincidence adds curiosity to the layers of the speculations connecting Jos
 
 1. Jenkins, J. P., & The Editors of Encyclopaedia Britannica. (2024, May 6). _Jack the Ripper_. In Encyclopaedia Britannica. Retrieved from https://www.britannica.com/biography/Jack-the-Ripper
 
-2. PNA. (2019, November 8). _Rizal at the British Museum_. Philippine News Agency. Retrieved from https://www.pna.gov.ph/articles/1085409
+2. Philippine News Agency. (2019, November 8). _Rizal at the British Museum_. Philippine News Agency. Retrieved from https://www.pna.gov.ph/articles/1085409
 
 3. Tsikot Forums. (n.d). _Jose Rizal was Jack the Ripper_. Retrieved from https://www.tsikot.com/forums/miscellaneous-talk-163/jose-rizal-jack-ripper-42421/
+
+4. Caña, J. P. (2020, October 10). _Sherlock Holmes Meets Jose Rizal and Investigates if He’s Actually Jack the Ripper in this Short Story. Esquire_. Retrieved from https://www.esquiremag.ph/culture/books-and-art/sherlock-holmes-meets-jose-rizal-jack-the-ripper-a00289-20201010-lfrm

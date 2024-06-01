@@ -23,7 +23,7 @@ While Jack the Ripper's identity is still unknown, in the following articles, we
 
 ## The Canonical Five
 
-The Women Killed identified by the police to be the victim of the same murderer are the following:
+The Women Killed identified by the police to be the victims of the same murderer are the following:
 
 1. **Mary Ann Nichols**
    (found on August 31, 1888)

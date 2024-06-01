@@ -21,13 +21,22 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Debunks', 
         items: [
-          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' }, 
-          { text: 'Jose Rizal as Hitler\'s Father', link: '/rizal-as-hitlers-father/background' }
+          { text: 'Jose Rizal as Hitler\'s Father', link: '/rizal-as-hitlers-father/background' },
+          { text: 'Jack the Ripper Consipracy', link: '/jack-the-ripper-conspiracy/tldr' }
         ]
       },
     ],
 
     sidebar: [
+      {
+        text: 'Jose Rizal as Hitler\'s Father', collapsed: false,
+        items: [
+          { text: 'Background', link: '/rizal-as-hitlers-father/background' },
+          { text: 'Evidence', link: '/rizal-as-hitlers-father/evidences'},
+          { text: 'Debunking', link: '/rizal-as-hitlers-father/debunking' },
+          { text: 'Conclusion', link: '/rizal-as-hitlers-father/conclusion' }
+        ]
+      },
       {
         text: 'Jack the Ripper Conspiracy', collapsed: false,
         items: [
@@ -36,15 +45,6 @@ export default defineConfig({
           { text: 'Evidence', link: '/jack-the-ripper-conspiracy/evidence'},
           { text: 'Debunking', link: '/jack-the-ripper-conspiracy/debunking' },
           { text: 'Conclusion', link: '/jack-the-ripper-conspiracy/conclusion' },
-        ]
-      }, 
-      {
-        text: 'Jose Rizal as Hitler\'s Father', collapsed: false,
-        items: [
-          { text: 'Background', link: '/rizal-as-hitlers-father/background' },
-          { text: 'Evidence', link: '/rizal-as-hitlers-father/evidences'},
-          { text: 'Debunking', link: '/rizal-as-hitlers-father/debunking' },
-          { text: 'Conclusion', link: '/rizal-as-hitlers-father/conclusion' }
         ]
       }
     ],
